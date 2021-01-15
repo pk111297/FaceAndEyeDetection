@@ -21,5 +21,5 @@ Put the below the three file in the XMLs folder
 Run the below command for running the program
 
 ```
-python faceAndEyeDetection.py [image_name]
+python faceDetectionAndEyeDetection.py [image_name]
 ```
